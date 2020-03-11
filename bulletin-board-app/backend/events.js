@@ -17,4 +17,3 @@ module.exports = [
       date: '2017-11-13'
     }
   ];
-//here is a comment
